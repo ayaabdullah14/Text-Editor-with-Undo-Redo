@@ -1,6 +1,10 @@
 ## Project #2: Text Editor with Undo/Redo (Doubly Linked List + Stack + Queue)
 ---
 
+![Language](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-AVL%20Tree%20%7C%20Hash%20Table-blueviolet?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
+
 ## Overview
 
 A C console application that simulates a simple **text editor**. Words from a file are stored in a **doubly linked list**. Every insert and delete is recorded in an **Undo stack** so it can be reversed; undone operations are pushed to a **Redo stack**. A **queue** is used to buffer multiple words entered at once before inserting them into the list.
