@@ -2,8 +2,8 @@
 ---
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-AVL%20Tree%20%7C%20Hash%20Table-blueviolet?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
+![Queue](https://img.shields.io/badge/Queue-Data%20Structure-blue?style=flat-square)
+![Linked List](https://img.shields.io/badge/Linked%20List-Data%20Structure-orange?style=flat-square)![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 
 ## Overview
 
